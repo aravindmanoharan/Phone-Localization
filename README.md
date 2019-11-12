@@ -2,13 +2,13 @@
 This implementation locates the iPhone in an image which was trained on 130 images.
 
 <p align="center">
-  <img width="492" alt="SS1" src="https://user-images.githubusercontent.com/35612880/68648468-49261880-04d5-11ea-9e10-b8c965db91ae.png">
+  <img width="484" alt="SS1" src="https://user-images.githubusercontent.com/35612880/68648670-cc476e80-04d5-11ea-98f9-413bc2ddfccd.png">
 </p>
 
 <p align="center">
-  <img width="493" alt="SS2" src="https://user-images.githubusercontent.com/35612880/68648494-5c38e880-04d5-11ea-9a6c-a785e25fa628.png">
+  <img width="487" alt="SS2" src="https://user-images.githubusercontent.com/35612880/68648676-d4071300-04d5-11ea-8cfb-df40cf6add2e.png">
 </p>
 
 <p align="center">
-  <img width="492" alt="SS3" src="https://user-images.githubusercontent.com/35612880/68648509-65c25080-04d5-11ea-87b4-ed5931ec1f4c.png">
+  <img width="484" alt="SS3" src="https://user-images.githubusercontent.com/35612880/68648688-dbc6b780-04d5-11ea-9baf-a21af8d9344e.png">
 </p>
